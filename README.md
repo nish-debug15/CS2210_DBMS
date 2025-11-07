@@ -37,6 +37,6 @@ Each experiment demonstrates core database concepts including **DDL, DML, Functi
 | Component | Tool |
 |----------|------|
 | Database | MySQL |
-| Editor / Client | MySQL Workbench |
+| Editor | MySQL Workbench |
 
 ---
